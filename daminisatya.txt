@@ -3,6 +3,6 @@ Hi, I'm Damini Satya.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a senio
 <p>I'm an <a href="https://github.com/daminisatya" target="_blank">active open source contributor</a>, a tech savvy and love web designing. I have an experience at <a href="http://www.kony.com/" target="_blank">Kony, Inc.</a> as an Intern. I am currently a developer at <a href="http://fossasia.org/" target="_blank">Google Summer of Code, Fossasia</a>. </p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>I love to paint especially with acrylics and oils</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 
-<p>you can find me on <a class="github" target="_blank" href="https://github.com/daminisatya">GitHub</a> , <a class="twitter" href="https://twitter.com/Daminisatya" target="_blank">Twitter</a>, <a "https://plus.google.com/+daminisatya" target="_blank" class="google">Google+</a>, <a "https://in.linkedin.com/in/damini-satya-52816886" target="_blank" class="linkedin">Linkedin</a></p>
+<p>you can find me on <a class="github" target="_blank" href="https://github.com/daminisatya">GitHub</a> , <a class="twitter" href="https://twitter.com/Daminisatya" target="_blank">Twitter</a>, <a class="google+" href="https://plus.google.com/+daminisatya" target="_blank" class="google">Google+</a>, <a class="linkedin" href="https://in.linkedin.com/in/damini-satya-52816886" target="_blank" class="linkedin">Linkedin</a></p>
 
 
