@@ -1,5 +1,5 @@
 <span id="a">damini@satya</span>:<span id="b">~</span><span id="c">$</span> cat daminisatya.txt<br/><br/>
-Hi, I'm Damini Satya.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I have graduated from<a href="http://bvrithyderabad.edu.in/" target="_blank">BVRITHyderabad</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+Hi, I'm Damini Satya.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I have graduated from <a href="http://bvrithyderabad.edu.in/" target="_blank">BVRITHyderabad</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I'm an <a href="https://github.com/daminisatya" target="_blank">active open source contributor</a>, a tech savvy and love web designing. I have an experience at <a href="http://www.kony.com/" target="_blank">Kony, Inc.</a> as an Intern. I am currently a developer at <a href="http://fossasia.org/" target="_blank">Google Summer of Code, Fossasia</a>. </p>
 <p>Also an active contributor at Stanford Crowd Course Initiative</p>
 <!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
