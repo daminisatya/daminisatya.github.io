@@ -5,5 +5,6 @@ Hi, I'm Damini Satya.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I have grad
 <!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>I love to paint especially with acrylics and oils</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 
+<p>You can find me on <a class="GitHub" target="_blank" href="https://github.com/daminisatya">GitHub</a> , <a class="twitter" href="https://twitter.com/Daminisatya" target="_blank">Twitter</a>, <a class="Google+" href="https://plus.google.com/+daminisatya" target="_blank" class="google">Google+</a>, <a class="Linkedin" href="https://in.linkedin.com/in/damini-satya-52816886" target="_blank" class="linkedin">Linkedin</a></p>
 
 
