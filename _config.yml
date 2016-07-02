@@ -1,7 +1,7 @@
 # Site
 title: Damini Satya
-description: I'm that organism which turns coffee into software
-url: http://taylantatli.me/Halve
+description: I'm that organism who turns coffee into software
+url: http://127.0.0.1:4000
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -30,12 +30,12 @@ sass:
 
 # Social Links
 #email:             email
-#google.plus:        username
-twitter:            username
+google.plus:        daminisatya
+twitter:            Daminisatya
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             daminisatya
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           daminisatya
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:

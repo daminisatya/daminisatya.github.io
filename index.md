@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# About me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I'm an avid learner and love to paint.  
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I speak many languages - English, Telugu, Java, Python, JavaScript .... where both my fellow mates and my laptop can understand. 
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I love sharing knowledge and have decided to present my work to the world. 

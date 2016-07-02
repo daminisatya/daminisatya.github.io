@@ -1,7 +1,7 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: Loklak Apps
+  url: http://loklak.org/apps/applist/index.html
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+  completed: true
 
 - title: Moon Jekyll Theme
   url: http://taylantatli.me/Moon
