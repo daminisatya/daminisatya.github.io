@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who I Am
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2016-07-17
 comments: false
 ---
