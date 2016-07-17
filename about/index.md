@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
+title: Who I Am
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2016-07-17
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I'm an ardent open source contributor and strive to code every single day. All my toughts and imagination, if doesn't fit well into computers, I put them on canvases. 
 
-## Preview
+I speak and write a lot of languages where both humans and computers can understand. Im not partial in this case! I would love to explore the world, espcially on google. If given a chance i would like to create a series of art work on "How machines feel"!
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Preview (About myself :P)
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I do only three things everyday,
+#Run (Cause I love taking part in marathons)
+#code
+#paint
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+If you are one such person with same set of skills, you are welcome to join me on twitter! 

@@ -1,7 +1,7 @@
 # Site
 title:              Damini Satya
-bio:                I'm that organism who converts coffee into software.
-description:        "I'm that organism who converts coffee into software."
+bio:                I'm an open source enthusiast, who loves to code and paint.
+description:        "I'm an open source enthusiast, who loves to code and paint."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   daminisatya
 
 # Social
 # if you don't have any of social below, comment the line.
