@@ -1,15 +1,14 @@
 # Site
-title: Damini Satya
-description: I'm that organism who turns coffee into software
-url: http://127.0.0.1:4000
-logo: halve.png                                       # Site logo
-locale: en_US
-
-# Left Block Images
-background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
-  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+title:              daminisatya 
+bio:                I'm that organism who converts coffee into software.
+description:        "I'm that organism who converts coffee into software."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -21,16 +20,24 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
+mathjax:            true
 sass:
-  sass_dir:         assets/_sass
+  sass_dir:         _sass
   style:            compressed
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
+# Comments
+disqus_shortname:   taylantatli
 
-# Social Links
-#email:             email
-google.plus:        daminisatya
+# Social
+# if you don't have any of social below, comment the line.
+google:
+  plus:             daminisatya
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
 twitter:            Daminisatya
 #facebook:           username
 github:             daminisatya
@@ -52,14 +59,16 @@ linkedin:           daminisatya
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-#behance:           username
 
 # Gems
 gems:
+  - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
 
+jekyll-mentions:
+    base_url: https://github.com
+
 # Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
