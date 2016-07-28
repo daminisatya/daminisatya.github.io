@@ -26,4 +26,3 @@ So here are few terms which come in handy while exploring the README.md files fo
 * PR - Pull request is sent to show your changes and request for review. This is a safer way to get the initial bugs out and code coverages.
 * Issue - So Github has a issue tracker for each project where you can find open issues or bugs found in the project. You can even use the issue tracker for posting new feature introductions 
 * Fork - Forking is a process where you create a separate copy for your self into your account. You that piece of project code is into your stub. 
-* Clone - This process helps you to dump the project code into your machine. Interesting right. 
