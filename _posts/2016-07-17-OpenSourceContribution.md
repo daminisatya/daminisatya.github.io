@@ -40,6 +40,14 @@ Bug/issue management is one of the least sexy ways to contribute to an open sour
 
 You can also go through the bug tracking system and help improve existing trouble tickets. Find a bug and see if you can reproduce it on your system. This can be invaluable to the developers trying to narrow down the cause of a problem.
 
+<figure>
+	<img src="../img/posts/Selection_294.png">
+</figure>
+
+<figure>
+	<img src="../img/posts/Selection_295.png">
+</figure>
+
 ## Write an example for the documentation
 
 Few developers are eager to write documentation, but it’s critical to the success of open source projects. What’s the first thing you look for when exploring a new project? The documentation. And what’s the first thing you look for in that documentation? Examples of how to use it. It’s easy to come up with examples for the documentation if you’ve been using the software for a while. For projects related to programming, such as a library or a framework, create a simple example that shows a common use case of the code. In many cases, you can take working code of your own, extract the most interesting parts, and you have a real-world example to help new users understand quickly. For applications, a few screenshots of common usage of the tool will go a long way to help new users.
