@@ -28,6 +28,10 @@ So here are few terms which come in handy while exploring the README.md files fo
 * Fork - Forking is a process where you create a separate copy for your self into your account. You that piece of project code is into your stub. 
 * Clone - This process helps you to dump the project code into your machine. Interesting right?
 
+<figure>
+	<img src="../img/posts/Selection_292.png">
+</figure>
+
 ## Report a bug
 
 Bug/issue management is one of the least sexy ways to contribute to an open source project, but it’s also one of the most important. When you find a bug in an open source package you use, report it into the project’s bug tracking system. This is probably the single most useful thing you can do to contribute to a project, because if users don’t report bugs, chances are that the developers won’t find about them. If the developers knew about the bugs, they would have fixed them, right? If you really want to help, take the time to do a good solid write-up into the project’s bug tracking system.
