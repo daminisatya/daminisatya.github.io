@@ -40,13 +40,6 @@ Bug/issue management is one of the least sexy ways to contribute to an open sour
 
 You can also go through the bug tracking system and help improve existing trouble tickets. Find a bug and see if you can reproduce it on your system. This can be invaluable to the developers trying to narrow down the cause of a problem.
 
-<figure>
-	<img src="../img/posts/Selection_294.png">
-</figure>
-
-<figure>
-	<img src="../img/posts/Selection_295.png">
-</figure>
 
 ## Write an example for the documentation
 
