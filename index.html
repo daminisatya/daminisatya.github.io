@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Damini Satya</title>
+		<meta name="description" content="Loading Effects for Grid Items with CSS Animations" />
+		<meta name="keywords" content="css animation, loading effect, google plus, grid items, masonry" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/default.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>Welcome to my place <span>Blah Blah</span></h1>	
+				<nav class="codrops-demos">
+					<a class="current-demo" href="index.html">About</a>
+					<a href="html/portfolio.html">Portfolio</a>
+					<a href="html/blog.html">Blog</a>
+					<a href="html/artwork.html">Artwork</a>
+					<a href="html/talks.html">Talks</a>
+					<a href="html/contact.html">Contact</a>
+				</nav>
+			</header>
+			<ul class="aboutInfo">
+				<div>
+					<div id="window">
+					 	<div id="toolbar">
+							<div class="top">
+								<div id="lights">
+									<div class="light red">
+										<div class="glyph">×</div>
+										<div class="shine"></div>
+										<div class="glow"></div>
+									</div>				
+									<div class="light yellow">
+										<div class="glyph">-</div>
+										<div class="shine"></div>
+										<div class="glow"></div>
+									</div>
+									<div class="light green">
+										<div class="glyph">+</div>
+										<div class="shine"></div>
+										<div class="glow"></div>
+									</div>
+								</div>
+								<div id="title">
+									<div class="folder">
+										<div class="tab"></div>
+										<div class="body"></div>
+									</div>
+									daminisatya.info
+								</div>
+								<div id="bubble">
+									<div class="shine"></div>
+									<div class="glow"></div>
+								</div>
+							</div>
+						</div>
+						<div id="body">
+							<p> Last login: Thu May 24 12:18:16 on ttys006 <br />
+								Doms-MacBook-Pro:flight dom$  </p>	
+							<div class="cursor"></div>	
+						</div>	
+					</div>
+				</div>
+			</ul>
+		</div>
+		<script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/imagesloaded.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/AnimOnScroll.js"></script>
+		<script>
+			var myDiv = document.getElementById("container");
+			myDiv.scrollTop = myDiv.scrollHeight;
+		</script>
+	</body>
+</html>

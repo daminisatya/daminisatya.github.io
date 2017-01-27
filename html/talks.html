@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Portfolio</title>
+		<meta name="description" content="Loading Effects for Grid Items with CSS Animations" />
+		<meta name="keywords" content="css animation, loading effect, google plus, grid items, masonry" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="../css/default.css" />
+		<link rel="stylesheet" type="text/css" href="../css/component.css" />
+		<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+		<script src="../js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>I love to talk!</h1>	
+				<nav class="codrops-demos">
+					<a href="../index.html">About</a>
+					<a href="portfolio.html">Portfolio</a>
+					<a href="blog.html">Blog</a>
+					<a href="artwork.html">Artwork</a>
+					<a class="current-demo" href="talks.html">Talks</a>
+					<a href="contact.html">Contact</a>
+				</nav>
+			</header>
+			<ul class="grid effect-2" id="grid">
+				
+			</ul>
+		</div>
+		<script src="../js/masonry.pkgd.min.js"></script>
+		<script src="../js/imagesloaded.js"></script>
+		<script src="../js/classie.js"></script>
+		<script src="../js/AnimOnScroll.js"></script>
+		<script>
+			new AnimOnScroll( document.getElementById( 'grid' ), {
+				minDuration : 0.4,
+				maxDuration : 0.7,
+				viewportFactor : 0.2
+			} );
+		</script>
+	</body>
+</html>
