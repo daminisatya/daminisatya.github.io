@@ -1,0 +1,76 @@
+@charset "utf-8";
+@media only screen and (max-width: 1250px) {
+	#header { padding:13px 25px; }
+}
+
+/* Larger devices (desktops, 1200px and below) */
+@media only screen and (max-width: 1200px) {
+	.padding-wrapper, .image-below { height:calc(100% - 20px); width:calc(100% - 20px); }
+	#container, #container-popup { margin-left:30px; }
+	.col1-1.rectangle, .col1-2.rectangle { width:310px; }
+	.col2-2.rectangle, .col2-1.rectangle, .col3.rectangle { width:620px; }
+	.col4.rectangle { width:930px }
+	.auto, .col4.rectangle, .col3.rectangle { height:auto !important; margin-bottom:20px; }
+	.grey-bg-large { padding:7%; }
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (max-width: 992px) {
+	#container, #container-popup { margin-left:20px; }
+	.col1-1.rectangle, .col1-2.rectangle { width:365px; }
+	.col2-2.rectangle, .col2-1.rectangle, .col3.rectangle, .col4.rectangle { width:730px; height:auto !important; margin-bottom:20px; }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 767px) {
+	.container { padding-left:30px; padding-right:30px; }
+	.col1-1.rectangle, .col1-2.rectangle { width:50%; }
+	.col2-2.rectangle, .col2-1.rectangle, .col3.rectangle, .col4.rectangle { width:100%; }
+	.grey-bg-large { padding:12%; }
+	.grey-bg-large h2 { max-width:100%; }
+	.post-text blockquote { float:none; width:100%; padding:10px 30px; }
+    #sidebar { width: 100%; }
+
+}
+
+@media only screen and (max-width: 580px) {
+	.col1-1.rectangle, .col1-2.rectangle { width:100%; }
+	.auto-mobile .grey-bg { position:relative; left:auto; top:auto; }
+}
+ 
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 480px) {
+	#header { padding:13px 20px; }
+	#footer { padding-left:20px; padding-right:20px; text-align:center }
+	#footer .alignright, #footer .alignleft { float:none; display:block; clear:both }
+	h1, h2 { font-size:26px; font-weight:400; line-height:1.25; letter-spacing:0 !important }
+	h1 { font-size:28px }
+	.container { padding-left:0px; padding-right:0px; padding-top:20px; }
+	.col1-1.rectangle, .col1-2.rectangle { width:100%; }
+	.col2-2.rectangle, .col2-1.rectangle, .col3.rectangle, .col4.rectangle { width:100%; }
+	h1#logo { margin-top:0px; margin-bottom:30px; }
+	h1#logo a { background:url(../img/bg-logo@2x.png) center no-repeat; background-size:229.3333px 58px; width:229.3333px; height:58px;  }
+	.left-to-avatar { padding-left:0px; }
+	.col3 .avatar { float:none; margin-right:0px; margin-bottom:20px; display:inline-block }
+	.images.alignleft { width:100%; margin:17px 0px 27px 0; float:none }
+
+	.padding-wrapper, .image-below { width:100% }
+	.sidebar .padding-wrapper, .contains-rectangles .col3 .padding-wrapper { padding-left:20px; padding-right:20px; }
+	#container, #container-popup { margin-left:0px; }
+
+	.comment { padding:30px 0 25px }
+	.commenter-avatar { padding: 0; margin: 0 auto; width: 150px; display:inline-block; float:none }
+	.comment-content { padding-top:20px; display:block; width:100%; max-width:100%; }
+	.comment.reply.level-1 { padding-left:0 }
+	.comment-form-wrapper { padding-top:29px; }
+	.comment-form-icon-wrapper { position: relative; top: 0; left: 0; float: none; display: inline-block; text-align:center; margin:0 auto; margin-bottom:30px; }
+	.comment-form { padding: 0; }
+    .comment-form .mleft { display:block; width:100%; margin-left: 0; }
+	input, textarea { width: 100% !important; }
+}
+
+
+/* Small heights */
+@media only screen and (max-height: 400px) {
+	#main-nav, #header { position:absolute }
+}
