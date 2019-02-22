@@ -14,7 +14,12 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel='stylesheet' id='httpfonts-googleapis-comcssfamilyoswald400600700-css' href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C600%2C700' type='text/css' media='all' />
     <link rel='stylesheet' id='httpfonts-googleapis-comcssfamilylato400400italic600-css' href='http://fonts.googleapis.com/css?family=Lato%3A400%2C400italic%2C600' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="lib/css/jquery.mosaic.css" />
+
+
+
     <script type='text/javascript' src='lib/js/jquery.js'></script>
+    <script type="text/javascript" src="lib/js/jquery.mosaic.js"></script>
 </head>
 
 <body class="archive category category-lifestyle category-2">
@@ -47,39 +52,44 @@
         <div class="content-wrapper">
             <div id="content">
                 <div class="container">
-                    <div class="element clearfix rectangle col1-1 home">
-                        <div class="padding-wrapper">
-                            <figure class="images">
-                                <img src="" alt="">
-                                <div class="covering-image visible">
-                                    <div class="info-box-content">
-                                        <div class="parent">
-                                            <div class="child">
-                                                <a><h2 class="header">Elsa</h2></a>
-                                                <h4 class="header">My journey exploring mental health in women and building Elsa</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </figure>
-                        </div>
-                    </div>
 
-                    <div class="element clearfix rectangle col1-1 home teaser">
-                        <div class="padding-wrapper">
-                            <a href="../../../index.html?p=73" title="">
-                                <figure class="images"> <img width="365" height="243" src="http://lorempixel.com/400/400" class="attachment-full size-full wp-post-image" alt="image03[1]" /></figure>
-                            </a>
-                            <div class="grey-bg">
-                                <a href="../../../index.html?p=73" title=""><h5 class="header">Mental Health in Women and stats around it</h5></a>
-                            </div>
-                        </div>
-                    </div>s
+                    <div id="myMosaic" class="mosaic jQueryMosaic">
+
+
+                        <img src="img/paintingsPics/16.jpg" />
+                        <img src="img/paintingsPics/17.jpg" />
+
+                        <img src="img/paintingsPics/12.jpg" />
+                        <img src="img/paintingsPics/13.jpg" />
+
+                        <img src="img/paintingsPics/14.jpg" />
+                        <img src="img/paintingsPics/15.jpg" />
+                        <img src="img/paintingsPics/1.jpg" />
+                        <img src="img/paintingsPics/2.jpg" />
+                        <img src="img/paintingsPics/3.jpg" />
+                        <img src="img/paintingsPics/4.jpg" />
+                        <img src="img/paintingsPics/5.jpg" />
+
+                        <img src="img/paintingsPics/6.jpg" />
+                        <img src="img/paintingsPics/7.jpg" />
+
+                        <img src="img/paintingsPics/8.jpg" />
+                        <img src="img/paintingsPics/9.jpg" />
+                        <img src="img/paintingsPics/10.jpg" />
+                        <img src="img/paintingsPics/11.jpg" />
+
+                    </div>
+                    <script>
+                        jQuery(document).ready(function($){
+                            $('#myMosaic').Mosaic();
+                        });
+                    </script>
 
                 </div>
             </div>
         </div>
     </div>
+
 
     <script type='text/javascript' src='lib/js/jquery.ba-bbq.min.js'></script>
     <script type='text/javascript' src='lib/js/main2.js'></script>
